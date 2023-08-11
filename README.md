@@ -13,3 +13,4 @@ Follow this link for original reserach article.
 https://doi.org/10.3390/rs14061352 
 
 Follow this link for step by step guide to implement the code
+https://medium.com/@saurabh21.kaushik/mapping-glaciers-from-space-using-artificial-intelligence-52002411bd96 
